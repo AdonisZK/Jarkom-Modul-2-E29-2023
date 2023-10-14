@@ -771,6 +771,7 @@ lynx http://10.51.4.4
 
 
 ## Soal 20
+Karena website www.parikesit.abimanyu.yyy.com semakin banyak pengunjung dan banyak gambar gambar random, maka ubahlah request gambar yang memiliki substring “abimanyu” akan diarahkan menuju abimanyu.png.
 ### Script
 #### Abimanyu
 Di soal 16
