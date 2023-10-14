@@ -783,12 +783,9 @@ Di soal 16
 Melakukan rewrite pada file jika ada substring abimanyu menjadi abimanyu.png
 #### Sadewa
 ```
-lynx parikesit.abimanyu.a09.com/public/images/abimanyu-student.jpg
-lynx parikesit.abimanyu.a09.com/public/images/notabimanyujustmuseum.177013
 lynx http://www.parikesit.abimanyu.e29.com/public/images
 ```
 ### Hasil
-![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/a28812fd-d689-4779-b17d-8b942acc11f2)
 ![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/986809c3-0389-4d7d-8f14-d3158615885d)
 
 
