@@ -27,8 +27,6 @@ Kelompok E29
   > * [Soal 15](#Soal-15)
   > * [Soal 16](#Soal-16)
 * [Soal 17-18](#Soal-17-18)
-  > * [Soal 17](#Soal-17)
-  > * [Soal 18](#Soal-18)
 * [Soal 19](#Soal-19)
 * [Soal 20](#Soal-20)
 
