@@ -8,7 +8,7 @@ Kelompok E29
 
 ## Topologi
 
-![screenshot-1697382232496](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/3d341fa8-6ac8-4c5f-9153-9475da7e68e4)
+![Topologi](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/2526a0ef-9778-4111-bd89-0040a6a4023c)
 
 ## Config
 
@@ -82,6 +82,34 @@ iface eth0 inet static
 	netmask 255.255.255.0
 	gateway 10.51.3.1
 ```
+
+### - Prabukusuma
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.4.3
+	netmask 255.255.255.0
+	gateway 10.51.4.1
+```
+
+### - Abimanyu
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.4.4
+	netmask 255.255.255.0
+	gateway 10.51.4.1
+```
+
+### - Wisanggeni
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.4.5
+	netmask 255.255.255.0
+	gateway 10.51.4.1
+```
+
 ## Soal 1
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut. Folder topologi dapat diakses pada drive berikut 
 
