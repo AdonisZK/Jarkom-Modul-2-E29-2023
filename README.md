@@ -38,6 +38,50 @@ iface eth4 inet static
 	netmask 255.255.255.0
 ```
 
+### - Yudhistira
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.1.2
+	netmask 255.255.255.0
+	gateway 10.51.1.1
+```
+
+### - Werkudara
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.2.2
+	netmask 255.255.255.0
+	gateway 10.51.2.1
+```
+
+### - Arjuna
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.4.2
+	netmask 255.255.255.0
+	gateway 10.51.4.1
+```
+
+### - Nakula
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.3.3
+	netmask 255.255.255.0
+	gateway 10.51.3.1
+```
+
+### - Sadewa
+```
+auto eth0
+iface eth0 inet static
+	address 10.51.3.2
+	netmask 255.255.255.0
+	gateway 10.51.3.1
+```
 ## Soal 1
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut. Folder topologi dapat diakses pada drive berikut 
 
