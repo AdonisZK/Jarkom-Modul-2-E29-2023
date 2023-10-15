@@ -79,13 +79,13 @@ iface eth0 inet static
 	gateway 10.51.2.1
 ```
 
-### - Arjuna
+### - Sadewa
 ```
 auto eth0
 iface eth0 inet static
-	address 10.51.4.2
+	address 10.51.3.2
 	netmask 255.255.255.0
-	gateway 10.51.4.1
+	gateway 10.51.3.1
 ```
 
 ### - Nakula
@@ -97,14 +97,16 @@ iface eth0 inet static
 	gateway 10.51.3.1
 ```
 
-### - Sadewa
+
+### - Arjuna
 ```
 auto eth0
 iface eth0 inet static
-	address 10.51.3.2
+	address 10.51.4.2
 	netmask 255.255.255.0
-	gateway 10.51.3.1
+	gateway 10.51.4.1
 ```
+
 
 ### - Prabukusuma
 ```
