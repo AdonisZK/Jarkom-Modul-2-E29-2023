@@ -20,9 +20,16 @@ Kelompok E29
 * [Soal 8](#Soal-8)
 * [Soal 9](#Soal-9)
 * [Soal 10](#Soal-10)
-* [Soal 11](#Soal-11)
-* [Soal 12](#Soal-12)
+* [Soal 11-12](#Soal-11-12)
 * [Soal 13](#Soal-13)
+* [Soal 14](#Soal-14)
+* [Soal 15](#Soal-15)
+* [Soal 16](#Soal-16)
+* [Soal 1](#Soal-1)
+* [Soal 1](#Soal-1)
+* [Soal 1](#Soal-1)
+* [Soal 1](#Soal-1)
+* [Soal 1](#Soal-1)
 
 ## Topologi
 ![Topologi](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/2526a0ef-9778-4111-bd89-0040a6a4023c)
@@ -497,6 +504,7 @@ File index.php yang didownload melalui gdrive tidak bisa berjalan dan mengarahka
 ### Hasil
 ![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/61f484a1-2ea1-4b22-b4e3-d9269bb3710c)
 ![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/9ff92ae8-c372-42c5-8446-9dc7da465929)
+
 ## Soal 10
 Kemudian gunakan algoritma Round Robin untuk Load Balancer pada Arjuna. Gunakan server_name pada soal nomor 1. Untuk melakukan pengecekan akses alamat web tersebut kemudian pastikan worker yang digunakan untuk menangani permintaan akan berganti ganti secara acak. Untuk webserver di masing-masing worker wajib berjalan di port 8001-8003. Contoh
     - Prabakusuma:8001
@@ -596,7 +604,7 @@ http://www.abimanyu.e29.com
 www.abimanyu.e29.com/home
 ![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/c932a951-d628-4e95-8772-ad9785a67852)
 
-## Soal 13-16 dan 20
+## Soal 13-16
 13. Selain itu, pada subdomain www.parikesit.abimanyu.yyy.com, DocumentRoot disimpan pada /var/www/parikesit.abimanyu.yyy
 14. Pada subdomain tersebut folder /public hanya dapat melakukan directory listing sedangkan pada folder /secret tidak dapat diakses (403 Forbidden).
 15. Buatlah kustomisasi halaman error pada folder /error untuk mengganti error kode pada Apache. Error kode yang perlu diganti adalah 404 Not Found dan 403 Forbidden.
