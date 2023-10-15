@@ -8,8 +8,21 @@ Kelompok E29
 
 
 # Laporan Resmi
-
-[Topologi](#Topologi)
+* [Topologi](#Topologi)
+* [Config](#Config)
+* [Soal 1](#Soal-1)
+* [Soal 2](#Soal-2)
+* [Soal 3](#Soal-3)
+* [Soal 4](#Soal-4)
+* [Soal 5](#Soal-5)
+* [Soal 6](#Soal-6)
+* [Soal 7](#Soal-7)
+* [Soal 8](#Soal-8)
+* [Soal 9](#Soal-9)
+* [Soal 10](#Soal-10)
+* [Soal 11](#Soal-11)
+* [Soal 12](#Soal-12)
+* [Soal 13](#Soal-13)
 
 ## Topologi
 ![Topologi](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/2526a0ef-9778-4111-bd89-0040a6a4023c)
