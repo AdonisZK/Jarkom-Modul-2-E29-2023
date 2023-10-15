@@ -8,7 +8,7 @@ Kelompok E29
 
 ## Topologi
 
-![Topologi](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/64246ac2-4a6c-4e7a-96d1-dc8f26cb2f13)
+![screenshot-1697382232496](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/3d341fa8-6ac8-4c5f-9153-9475da7e68e4)
 
 ## Config
 
