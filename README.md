@@ -6,7 +6,10 @@ Kelompok E29
 | Sony Hermawan | 5025211226 |
 | Sekar Ambar Arum | 5025211041 |
 
-## Topologi 
+## Topologi
+
+![Topologi](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/90591077/0caa8622-28fb-4203-8063-ae6fc63f031a)
+
 ## Config
 ## Soal 1
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian sebagai berikut. Folder topologi dapat diakses pada drive berikut 
