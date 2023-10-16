@@ -605,7 +605,7 @@ http://www.abimanyu.e29.com
 www.abimanyu.e29.com/home
 ![image](https://github.com/AdonisZK/Jarkom-Modul-2-E29-2023/assets/48209612/c932a951-d628-4e95-8772-ad9785a67852)
 
-## Soal 13-16
+## Soal 13-16and20
 13. Selain itu, pada subdomain www.parikesit.abimanyu.yyy.com, DocumentRoot disimpan pada /var/www/parikesit.abimanyu.yyy
 14. Pada subdomain tersebut folder /public hanya dapat melakukan directory listing sedangkan pada folder /secret tidak dapat diakses (403 Forbidden).
 15. Buatlah kustomisasi halaman error pada folder /error untuk mengganti error kode pada Apache. Error kode yang perlu diganti adalah 404 Not Found dan 403 Forbidden.
